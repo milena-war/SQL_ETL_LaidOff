@@ -1,4 +1,4 @@
-## Projekt: Analiza danych w MySQL
+## Projekt: Analiza danych w Microsoft SQL Server
 
 Ten projekt jest poświęcony procesom czyszczenia danych oraz eksploracyjnej analizie danych przy użyciu bazy danych Microsoft SQL Server. 
 
