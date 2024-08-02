@@ -1,5 +1,3 @@
-# README
-
 ## Projekt: Analiza danych w MySQL
 
 Ten projekt jest poświęcony procesom czyszczenia danych oraz eksploracyjnej analizie danych przy użyciu bazy danych Microsoft SQL Server. 
