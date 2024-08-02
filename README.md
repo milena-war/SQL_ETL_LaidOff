@@ -1,11 +1,24 @@
-Projekt obejmuje proces czyszczenia danych skupiając się na usuwaniu duplikatów, ujednolicaniu danych oraz obsłudze wartości pustych. 
-Uwzględnia jak importować dane, tworzyć tabele i przekształcać dane do użytecznej formy, co jest kluczowe przed przeprowadzeniem analizy eksploracyjnej.
-W projekcie analizowano dane dotyczące zwolnień w firmach, badając ich przyczyny i trendy.
-Zastosowano różne techniki eksploracyjnej analizy danych, w tym sumy kroczące oraz grupowanie według lat i firm. 
+# README
 
-////
+## Projekt: Analiza danych w MySQL
 
-The project includes a data cleansing process focusing on deduplication, data unification, and blank value handling. 
-It covers how to import data, create tables, and transform data into a usable form, which is crucial before conducting exploratory analysis. 
-The project analysed data on layoffs in companies, examining their causes and trends.
-Various exploratory data analysis techniques were used, including rolling totals and grouping by year and company.
+Ten projekt jest poświęcony procesom czyszczenia danych oraz eksploracyjnej analizie danych przy użyciu bazy danych Microsoft SQL Server. 
+
+### Cel projektu
+
+Celem tego projektu jest:
+
+1. Przygotowanie danych do analizy poprzez różnorodne techniki ich oczyszczania.
+2. Przeprowadzenie eksploracyjnej analizy danych w celu zrozumienia ich struktury, wykrycia anomalii oraz zidentyfikowania potencjalnych trendów.
+
+### Zakres pracy
+
+#### 1. Czyszczenie danych w Microsoft SQL Server
+- Użycie zapytań SQL do usuwania duplikatów, uzupełniania brakujących wartości oraz przekształcania danych.
+- Techniki normalizacji danych, w tym przekształcanie typów danych oraz usuwanie zbędnych kolumn.
+
+#### 2. Eksploracyjna analiza danych
+- Wizualizacja danych za pomocą zapytań SQL (podstawowe agregacje, grupowanie i sortowanie).
+- Tworzenie widoków oraz tabel pomocniczych w celu analizy statystycznej.
+- Analiza wartości odstających oraz wykrywanie nieprawidłowości w danych, co pozwala na dalszą optymalizację procesów analitycznych.
+
